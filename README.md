@@ -1,4 +1,7 @@
 # U.S. Domestic Aviation Safety Analysis (2023–2026)
+
+![Aviation Safety Dashboard](aviation_safety_dashboard.png)
+
 An interactive aviation safety dashboard analyzing 6,852 U.S. domestic aviation events using Federal Aviation Administration (FAA) data from March 2023 through October 2026.
 
 This project demonstrates an end-to-end analytics workflow, from cleaning and transforming raw aviation records with Python to developing an interactive Tableau dashboard for exploring incident severity, aircraft manufacturer comparisons, and geographic patterns.
