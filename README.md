@@ -1,6 +1,6 @@
 # U.S. Domestic Aviation Safety Analysis (2023–2026)
 
-![Aviation Safety Dashboard](aviation_safety_dashboard.png)
+[![Aviation Safety Dashboard](aviation_safety_dashboard.png)](https://public.tableau.com/views/DomesticAviationIncidents20232026/U_S_DomesticAviationSafetyAnalysis20232026)
 
 An interactive aviation safety dashboard analyzing 6,852 U.S. domestic aviation events using Federal Aviation Administration (FAA) data from March 2023 through October 2026.
 
