@@ -11,7 +11,7 @@ This project demonstrates an end-to-end analytics workflow, from cleaning and tr
 
  - Florida, Texas, and California had the highest recorded event counts.
 
- - Cessna and Piper were the most frequently represented aircraft manufacturers.
+- Boeing accounted for 154 recorded events, compared with 83 involving Airbus aircraft.
 
 ## Technical Approach
 
